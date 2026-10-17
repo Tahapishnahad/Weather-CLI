@@ -53,13 +53,13 @@ pip install -r requirements.txt
 Run the program by providing a city name as a command-line argument:
 
 ```bash
-python Weather.py Tehran
+python weather.py Tehran
 ```
 
 You can replace `Tehran` with another city name, for example:
 
 ```bash
-python Weather.py London
+python weather.py London
 ```
 
 The application retrieves the city's coordinates, fetches its current weather data, and displays the results in the terminal.
